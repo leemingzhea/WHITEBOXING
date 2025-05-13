@@ -10144,6 +10144,74 @@ Transform:
   - {fileID: 139437713}
   m_Father: {fileID: 1550885026}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &730777620
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13.673582
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.28
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.74
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.50000006
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50000006
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_Name
+      value: School Locker (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf7b144d7b3f22d49b30ba6a10d714bb, type: 3}
 --- !u!1001 &738794432
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21299,6 +21367,74 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 836716909}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1441322306
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13.673582
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.28
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.63
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.50000006
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50000006
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_Name
+      value: School Locker (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf7b144d7b3f22d49b30ba6a10d714bb, type: 3}
 --- !u!4 &1442232289 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ace76fd9f5f4b094ebb27344ca1778fa,
@@ -21456,6 +21592,74 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fe4de9b56e21b334fae07782efca2a3b, type: 3}
+--- !u!1001 &1464392503
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13.673582
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.2789485
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.92
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.50000006
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50000006
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_Name
+      value: School Locker
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf7b144d7b3f22d49b30ba6a10d714bb, type: 3}
 --- !u!4 &1466814337 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: 8244cab4f6e05914fad738744cafc22a,
@@ -45949,6 +46153,74 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b06a7002771176e48b2aaba873e28341, type: 3}
+--- !u!1001 &1887065748
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13.673582
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.28
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.833
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.50000006
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50000006
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bf7b144d7b3f22d49b30ba6a10d714bb,
+        type: 3}
+      propertyPath: m_Name
+      value: School Locker (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf7b144d7b3f22d49b30ba6a10d714bb, type: 3}
 --- !u!1001 &1890539216
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -48174,3 +48446,7 @@ SceneRoots:
   - {fileID: 921242100}
   - {fileID: 1550885026}
   - {fileID: 1108911850}
+  - {fileID: 1464392503}
+  - {fileID: 1887065748}
+  - {fileID: 730777620}
+  - {fileID: 1441322306}
